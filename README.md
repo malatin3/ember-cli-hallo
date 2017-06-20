@@ -1,0 +1,3 @@
+# ember-cli-hallo
+
+ADDON IS UNDER CONSTRUCTION. DO NOT USE.
